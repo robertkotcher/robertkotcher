@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @robertkotcher
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning machine learning through [goml2](https://github.com/robertkotcher/goml2)
+- 💞️ I’m looking to collaborate on [goml2](https://github.com/robertkotcher/goml2) :-)
+- 📫 How to reach me rkotcher at gmail dot com
